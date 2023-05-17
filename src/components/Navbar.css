@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px;
+    background-color: gray;
+    margin-bottom: 50px;
+}
+.navbar *{
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+
+}
+.active{
+    color: blue;
+}
